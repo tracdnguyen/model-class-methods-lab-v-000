@@ -15,4 +15,3 @@ class Boat < ActiveRecord::Base
     where("length > 20")
   end
 end
-  
